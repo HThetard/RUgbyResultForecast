@@ -3,7 +3,7 @@ import pandas as pd
 from time import sleep
 
 # ⚠️ Replace this with your actual API key
-API_KEY = 'YK0FXF4QPWAdldOz0vzypPzSEvTEVfDtCubkL3hN'
+API_KEY = ''
 
 # ✅ Use the correct base URL for v3
 BASE_URL = 'https://api.sportradar.com/rugby-union/trial/v3/en/'

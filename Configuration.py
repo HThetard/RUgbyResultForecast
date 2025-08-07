@@ -1,4 +1,4 @@
-API_key = 'YK0FXF4QPWAdldOz0vzypPzSEvTEVfDtCubkL3hN'
+API_key = ''
 
 #from rugby_api.client import RugbyAPI
 

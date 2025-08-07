@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 from time import sleep
 
-API_KEY = 'YK0FXF4QPWAdldOz0vzypPzSEvTEVfDtCubkL3hN'
+API_KEY = ''
 BASE_URL = 'https://api.sportradar.com/rugby-union/trial/v3/en/competitions'
 
 # List of season IDs to loop through

@@ -19,9 +19,9 @@ for f in json_files:
 
 # Connect to MySQL
 conn = mysql.connector.connect(
-    host='localhost',
-    user='root',
-    password='Hein5024!@'
+    host='',
+    user='',
+    password=''
 )
 cursor = conn.cursor()
 

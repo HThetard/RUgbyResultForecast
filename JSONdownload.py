@@ -1,7 +1,7 @@
 import requests
 import time
 
-API_KEY = "YK0FXF4QPWAdldOz0vzypPzSEvTEVfDtCubkL3hN"
+API_KEY = ""
 BASE_URL = "https://api.sportradar.com/rugby-union/trial/v3/en/seasons"
 
 SEASON_IDS = [

@@ -6,7 +6,7 @@ url = "https://api.sportradar.com/rugby-union/trial/v3/en/seasons.json"
 
 headers = {
     "accept": "application/json",
-    "x-api-key": "YK0FXF4QPWAdldOz0vzypPzSEvTEVfDtCubkL3hN"
+    "x-api-key": ""
 }
 
 response = requests.get(url, headers=headers)
